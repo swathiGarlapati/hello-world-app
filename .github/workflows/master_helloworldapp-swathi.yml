@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'helloWorldApp-swathi'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_8FF9017609AA48C88EA8CC88BD3DD102 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_E59F2ECCF0AA4CCAA282366DE615192C }}
           package: .
